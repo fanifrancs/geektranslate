@@ -10,7 +10,7 @@ You know how sometimes you find these really geeky quotes and wish the world had
 
 ## Demo
 
-Try it out at [http://fanifrancs.github.io/geektranslate](http://fanifrancs.github.io/geektranslate) 👏
+Try it out at [https://fanifrancs.github.io/geektranslate](https://fanifrancs.github.io/geektranslate) 👏
 
 ![](demo.jpg)
 
