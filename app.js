@@ -208,25 +208,7 @@ function translate() {
 function randomTranslation() {
     let randomNum = Math.floor(Math.random() * quotes.length);
     inputfield.value = quotes[randomNum];
-    let inputValuesArray = inputfield.value.split('\n').join(' ').toLowerCase().split(' ');
-    // let inputValuesArray = inputfield.value.replace(/(?:\r\n|\r|\n)/g, ' ').toLowerCase().split(' ');
-    const outputValuesArray = [];
-    inputValuesArray.forEach((input) => {
-        if (translations[input]) {
-            outputValuesArray.push(translations[input]);
-        } else {
-            let x = input.slice(-input.length, -1);
-            let y = input.slice(-1);
-            if (translations[x]) {
-                var z = translations[x];
-            } else {
-                z = x;
-            }
-            let output = z + y;
-            outputValuesArray.push(output);
-        }
-    })
-    out.innerText = outputValuesArray.join(' ');
+    translate();
 }
 
 function copy() {

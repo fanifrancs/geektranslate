@@ -2,9 +2,14 @@
     box-sizing: border-box;
 }
 
+html{
+    margin: 0 5%;
+}
+
 body{
-    margin: 20px 5% 0;
+    margin: 20px auto 0;
     background-color: bisque;
+    max-width: 500px;
 }
 
 .container{
@@ -33,21 +38,20 @@ textarea{
     margin: 0 auto;
     width: 100%;
     resize: none;
-    padding: 0;
     border-radius: 5px;
     padding: 10px;
 }
 
 textarea:focus{
-    border: 2px solid crimson;
+    border: 1.5px solid crimson;
     outline: none;
 }
 
 #geekoutput{
     background-color: black;
     color: #54FE55;
-    padding: 15px;
+    padding: 12px;
     border-radius: 5px;
-    font-size: large;
+    font-size: medium;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
