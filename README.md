@@ -6,7 +6,7 @@
 > 
 > sometimes, i just need a `<br>`
 
-You know how sometimes you find these really geeky quotes and wish the world had more of them? Yeah, geektranslate fixes that.😎 
+You know how sometimes you find these really geeky quotes and wish the world had more of them? Yeah, geektranslate fixes that.
 
 ## Demo
 
