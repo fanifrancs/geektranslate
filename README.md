@@ -10,14 +10,12 @@ You know how sometimes you find these really geeky quotes and wish the world had
 
 ## Demo
 
-Try it out at [https://fanifrancs.github.io/geektranslate](https://fanifrancs.github.io/geektranslate)
-
-![](demo.jpg)
+> [Click me](https://fanifrancs.github.io/geektranslate)
 
 ## Contributing
 
-This repo is open to contribution(s).
+> This repo is open to contribution(s).
 
 ## License
 
-This repo is available under the [MIT license](LICENSE).
+> This repo is available under the [MIT license](LICENSE).
